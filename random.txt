@@ -1,1 +1,1 @@
-{'f': 'true', 'v': '9.0', 'w': 'https://t.me/psteamffg'}
+{'f': 'true', 'v': '9.2', 'w': 'https://t.me/psteamffg'}
